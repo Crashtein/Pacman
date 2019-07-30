@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file alias="Brick">brick.png</file>
+        <file alias="Coin">coin.png</file>
+        <file alias="MonsterVulnerable">MonsterVulnerable.png</file>
+        <file alias="PacmanClosed">PacmanClosed.png</file>
+        <file alias="PacmanOpen">PacmanOpen.png</file>
+        <file alias="Way">way.png</file>
+        <file alias="GameBackground">GameBackground.jpg</file>
+        <file alias="Monster">Monster.png</file>
+    </qresource>
+</RCC>
